@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/sayonara/.platformio/penv/bin:/home/sayonara/.platformio/penv:/home/sayonara/bin:/home/sayonara/.local/bin:/home/sayonara/bin:/home/sayonara/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Luiza\\.platformio\\penv\\Scripts;C:\\Users\\Luiza\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Users\\Luiza\\Desktop\\runtime\\win64;C:\\Users\\Luiza\\Desktop\\bin;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\runtime\\win64;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\bin;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\polyspace\\bin;C:\\Users\\Luiza\\Desktop\\polyspace\\bin;C:\\Users\\Luiza\\AppData\\Local\\GitHubDesktop\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Users\\Luiza\\Desktop\\runtime\\win64;C:\\Users\\Luiza\\Desktop\\bin;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\runtime\\win64;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\bin;C:\\Program Files\\MATLAB\\MATLAB Production Server\\R2015a\\polyspace\\bin;C:\\Users\\Luiza\\Desktop\\polyspace\\bin;C:\\Users\\Luiza\\AppData\\Local\\GitHubDesktop\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
