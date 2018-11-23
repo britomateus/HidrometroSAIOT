@@ -1,0 +1,25 @@
+1 - Reiniciando
+2 -
+3 - Codigo HTTP diferente de 200
+4 - Reconectado
+5 - Desconectado
+6 - Tamanho da fila maior que X
+7 - X de tentativas de envio
+Possiveis erros:
+-Sem rede (led vermelho) - apaga após se conectar
+-tentando enviar dados (acende terceiro led verde) - apaga após envia/ acende um 4(azul) se n conseguir
+
+Valores para a variável mododebug
+0 - nada
+1 - tudo
+2 - filtro
+3 - atributos da classe de pulsos
+4 - jsonDebug
+5 - contador de pulsos
+6 - payload e httcode
+7 - tamanho da fila debug
+8 - tamanho da fila pulso
+9 - Data/hora atual
+10 - Json dos pulsos
+11 - Valor armazenado no endereço atual
+12 - Endereco da flash que está sendo usado no momento para gravar o contador

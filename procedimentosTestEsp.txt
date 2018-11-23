@@ -1,0 +1,7 @@
+Verificações antes de gravar o código:
+
+~Atribuir um novo uuid ao dispositivo
+~Atualizar os valores de:
+ 	*tempjson (tempo para criar o json em segundos)
+	*temppost (tempo para postar os jsons em segundos)
+	*temppostdebug (tempo para postar os debugs em segundos)
